@@ -1,2 +1,2 @@
 def inc(x):
-    return x+1
+    """Escribe aquí tu código"""
